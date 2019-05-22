@@ -1,0 +1,6 @@
+framework module Pods_MobileCodingGit {
+  umbrella header "Pods-MobileCodingGit-umbrella.h"
+
+  export *
+  module * { export * }
+}
